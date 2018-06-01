@@ -16,7 +16,7 @@ Below are the steps to take if you have read and write access and can **Create a
 4) Add the appropriate links to the demo/code/video/etc, and a description of the demo in the new .md  and commit the changes.
 5) Finally, link the new .md file you just created to the [internal/phase-1/index.md](https://github.com/dcppc/internal/blob/master/phase-1/index.md) markdown file.
     - After navigating to the index.md file, hit the pencil icon to **Edit** this file
-    - Under the appropriate Demo heading, create a bullet point (*) and type in [Team Helium demo]
+    - Under the appropriate Demo heading, create a bullet point (* and a space) and type in [Team Helium demo]
     (Name of the new .md file you just created)
     - Example: * [Team Helium Demo] (2M.1FullStacks-Helium.md) 
     - Note, there should not be a space between [] and () to ensure hyperlinking
