@@ -13,7 +13,7 @@ Below are the steps to take if you have read and write access and can **Create a
 2) Double-check that you are in your new branch. Look for the same grey dropdown menu, which should now have the name of the branch you created. In this example, we should see "Branch:**2M.1FullStacks-Helium**" . 
 3) Navigate to the [dcppc/internal/phase-1](https://github.com/dcppc/internal/tree/helium_2M.1FS/phase-1) folder. You will see a list of markdown (.md) files of previous demos that have been delivered. Add a new .md file to internal/phase-1/ by selecting the **Create new file** button, and name your new .md file.
     - Example: "2M.1FullStacks-Helium.md"
-4) Add the appropriate links to the demo/code/video/etc, and a description of the demo in the new .md 
+4) Add the appropriate links to the demo/code/video/etc, and a description of the demo in the new .md  and commit the changes.
 5) Finally, link the new .md file you just created to the [internal/phase-1/index.md](https://github.com/dcppc/internal/blob/master/phase-1/index.md) markdown file.
     - After navigating to the index.md file, hit the pencil icon to **Edit** this file
     - Under the appropriate Demo heading, create a bullet point (*) and type in [Team Helium demo]
