@@ -24,7 +24,7 @@ Below are the steps to take if you have read and write access and can **Create a
     that it goes to your newly created .md file
 6) Submit pull request by navigating to dcppc/internal and selecting the green button **Compare and pull request**
     - The title of the pull request will be generated based on what you've done, please ensure that it is descriptive.
-    Use the comment section to call out specific people that you would like to review the branch (ex: Helium developer, Claris, Titus, etc)
+    Use the comment section to call out specific people that you would like to review the branch (ex: Helium developer, Claris, Titus, etc) using @GitHubHandle
     - Click the **Submit Pull Request** button 
     - This branch is now under review for the next 7 days. Team Copper will format the new .md file and may request additional information
     - Once the review process is over, Team Copper will merge the new branch into the **master**. 
