@@ -22,7 +22,7 @@ markdown file.
     - After navigating to the index.md file, hit the pencil icon to **Edit** this file
     - Under the appropriate Demo heading, create a bullet point (*) and type in [Team Helium demo]
     (Name of the new .md file you just created)
-    - Example: * [Team Helium Demo](2M.1FullStacks-Helium.md) 
+    - Example: * [Team Helium Demo] (2M.1FullStacks-Helium.md) 
     - Preview changes to ensure that your addition turned into a bulleted hyperlink, and click the hyperlink to ensure
     that it goes to your newly created .md file
 6) Submit pull request by navigating to dcppc/internal and selecting the green button **Compare and pull request**
