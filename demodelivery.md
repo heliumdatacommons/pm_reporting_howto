@@ -3,10 +3,11 @@
 See [dcppc/organize](https://github.com/dcppc/organize/blob/master/reporting/README.md) for Team Copper's description of the entire demo delivery process pipeline. 
 
 ## How To?
-There is more than one way to update the [dcppc/internal/phase-1](https://github.com/dcppc/internal/blob/master/phase-1/index.md) repo with the demo information.
+There is more than one way to update the [dcppc/internal/phase-1](https://github.com/dcppc/internal/blob/master/phase-1) repo with the demo information.
 
 Below are the steps to take if you have read and write access and can **Create a New Branch**: 
 
+0) First start by clicking the [dcppc/internal/phase-1](https://github.com/dcppc/internal/blob/master/phase-1) hyperlink
 1) Create a new branch by selecting the grey dropdown menu towards the top left, which is currently called "Branch:**master**". Start typing a new branch name
     - Example: "2M.1FullStacks-Helium"
 2) Double-check that you are in your new branch. Look for the same grey dropdown menu, which should now have the name of the branch you created. In this example, we should see "Branch:**2M.1FullStacks-Helium**" . 
