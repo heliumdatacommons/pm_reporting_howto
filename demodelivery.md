@@ -3,8 +3,7 @@
 See [dcppc/organize](https://github.com/dcppc/organize/blob/master/reporting/README.md) for Team Copper's description of the entire demo delivery process pipeline. 
 
 ## How To?
-There are several ways to update the [dcppc/internal/phase-1](https://github.com/dcppc/internal/blob/master/phase-1/index.md)
-repo with the demo information.
+There is more than one way to update the [dcppc/internal/phase-1](https://github.com/dcppc/internal/blob/master/phase-1/index.md) repo with the demo information.
 
 Below are the steps to take if you have read and write access and can **Create a New Branch**: 
 
@@ -15,7 +14,7 @@ Below are the steps to take if you have read and write access and can **Create a
     - Example: "2M.1FullStacks-Helium.md"
 4) Add the appropriate links to the demo/code/video/etc, and a description of the demo in the new .md. Then scroll down and click **Commit changes**.
 5) Finally, link the new .md file you just created to the internal/phase-1/index.md markdown file.
-    - After navigating to the index.md file (it is one of the files listed in the phase-1 folder), Click the pencil icon (:pencil2:) to **Edit** this file
+    - After navigating to the index.md file (it is one of the files listed in the phase-1 folder), Click the pencil icon (:pencil:) to **Edit** this file
     - Under the appropriate Demo heading, create a bullet point (* and a space) and type in [Team Helium demo]
     (Name of the new .md file you just created)
     - Example: * [Team Helium Demo] (2M.1FullStacks-Helium.md) 
@@ -32,4 +31,5 @@ Below are the steps to take if you have read and write access and can **Create a
     
 
 **Additional helpful info:** 
-[GitHub How to Create a New Branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
+* [GitHub How to Create a New Branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
+* [GitHub How to Write in Markdown](https://guides.github.com/features/mastering-markdown/)
