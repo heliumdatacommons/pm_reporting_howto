@@ -8,4 +8,6 @@ The purpose of this repo is to act as a referral resource for the Project Manage
   - This file links to instructions on how to update the [dcppc/internal/phase-1](https://github.com/dcppc/internal/tree/master/phase-1) repo 
 - Milestone Updates (coming soon!)
   - This file links to instructions on how to track and update milestones across all the teams within the DCPPC consortium using the [dcppc/dcppc-milestone](https://github.com/dcppc/dcppc-milestones) repo
-- Coming soon! Advanced: automatically upating the dcppc/milestone repo! 
+- Coming soon! Advanced: automatically upating the dcppc/milestone repo!
+
+**For suggestions on how to improve documentation for DCPPC reporting, please submit an issue under this [heliumdatacommons/pm_reporting_howto](https://github.com/heliumdatacommons/pm_reporting_howto/issues) repo and assign issues to @KCB13!**
