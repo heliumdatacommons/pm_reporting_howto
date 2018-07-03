@@ -13,7 +13,7 @@ Below are the steps to take if you have read and write access and can **Create a
 2) Double-check that you are in your new branch. Look for the same grey dropdown menu, which should now have the name of the branch you created. In this example, we should see "Branch:**2M.1FullStacks-Helium**" . 
 3) Navigate to the dcppc/internal/phase-1 folder by ensuring you are in the **Code** tab and clicking on the phase-1 folder link. You will see a list of markdown (.md) files of previous demos that have been delivered. Add a new .md file to internal/phase-1/ by selecting the **Create new file** button, and name your new .md file.
     - Example: "2M.1FullStacks-Helium.md"
-4) Add the appropriate links to the demo/code/video/etc, and a description of the demo in the new .md. Then scroll down and click **Commit changes**.
+4) Copy, paste, and answer the questions in the [pull_request_template.md](https://github.com/dcppc/internal/blob/master/.github/pull_request_template.md) in the new .md for the new demo. Then scroll down and click **Commit changes**.
 5) Finally, link the new .md file you just created to the internal/phase-1/index.md markdown file.
     - After navigating to the index.md file (it is one of the files listed in the phase-1 folder), Click the pencil icon (:pencil:) to **Edit** this file
     - Under the appropriate Demo heading, create a bullet point (* and a space) and type in [Team Helium demo]
@@ -32,5 +32,6 @@ Below are the steps to take if you have read and write access and can **Create a
     
 
 **Additional helpful info:** 
+* Note: if you are submitting more than 1 demo for the month, submit all demo .md files in 1 PR
 * [GitHub How to Create a New Branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
 * [GitHub How to Write in Markdown](https://guides.github.com/features/mastering-markdown/)
