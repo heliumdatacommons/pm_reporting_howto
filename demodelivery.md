@@ -19,7 +19,7 @@ Below are the steps to take if you have read and write access and can **Create a
     that it goes to the correct webpage
 4) Submit pull request by navigating to the **Code** tab of dcppc/internal and select the green button **Compare and pull request**
     - The title of the pull request will be generated based on what you've done, please ensure that it is descriptive (like Helium 3M.1 Demo).
-    - The text of the pull request will autogenerate with the template of questions needed to be answered about the demo you are submitting (see here [template here](https://github.com/dcppc/internal/blob/master/.github/pull_request_template.md)). 
+    - The text of the pull request will autogenerate with the template of questions needed to be answered about the demo you are submitting (see [template here](https://github.com/dcppc/internal/blob/master/.github/pull_request_template.md)). 
     - Preview your text and click the **Submit Pull Request** button 
     - Use the comment section to call out specific people that you would like to review the branch (ex: Helium developer, Claris, Titus, etc) using @GitHubHandle
     - **Note:** You can still edit this PR until it is merged. Hit the pencil :pencil: icon to edit 
